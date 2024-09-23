@@ -1,5 +1,3 @@
-# ey-map-demo
-
 # Credit Default Prediction Demo
 
 
